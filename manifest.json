@@ -1,0 +1,19 @@
+{
+  "short_name": "Steam Game Price Tracker",
+  "name": "Create React App Sample",
+  "manifest_version": 3,
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
